@@ -40,9 +40,3 @@ If you like this project and want to help us, you may joint or denote us.
 * qq群： 535810799
 
 If you want more help, you may send email to us. 
-
-## Reference 
-* Robust real-time face detection. PAUL VIOLA, MICHAEIL J. JONES
-* A fast and accurate constrained face face detector. Shengcai Liao, Anil K. Jain, Stan Z. Li 
-* Joint cascade face detection and alignment. Dong Chen, Shaoqing Ren, Yichen Wei, Xudong Chao, Jian Sun.
-
